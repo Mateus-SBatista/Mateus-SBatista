@@ -16,7 +16,7 @@
   
   🌱 Atualmente estou aprendendo sobre Python e JavaScript para dominá-los.
   
-  👯 Estou procurando colaborar em projetos open source relacionados a web development.
+  👨🏻‍💻 Estou procurando colaborar em projetos open source relacionados a web development.
   
   💬 Pergunte-me sobre qualquer coisa relacionada a tecnologia ou desenvolvimento web.
  
