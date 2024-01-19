@@ -20,7 +20,7 @@
   
   💬 Pergunte-me sobre qualquer coisa relacionada a tecnologia ou desenvolvimento web.
  
-  📫 Como entrar em contato comigo: chat
+  📫 Como entrar em contato comigo: email: mateusbatista.mb14@gmail.com ou WPP: +55 91 99368-3461
   
   ⚡ Curiosidade: Sou músico tecladista e pianista, gosto de jogos e filmes de ficção científica!
 
