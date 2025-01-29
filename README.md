@@ -16,9 +16,9 @@
   
   🌱 Atualmente estou aprendendo sobre Python e JavaScript para dominá-los.
   
-  👨🏻‍💻 Estou procurando colaborar em projetos open source relacionados a web development.
+  👨🏻‍💻 Estou procurando colaborar em projetos open source relacionados a Front End, Back End, Mobile e Arduíno.
   
-  💬 Pergunte-me sobre qualquer coisa relacionada a tecnologia ou desenvolvimento web.
+  💬 Pergunte-me sobre qualquer coisa relacionada a tecnologia ou Front End, Back End, Mobile e Arduíno.
  
   📫 Como entrar em contato comigo: email: mateusbatista.mb14@gmail.com ou WPP: +55 91 99368-3461
   
